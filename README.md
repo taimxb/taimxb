@@ -1,5 +1,5 @@
-<!-- ========= TOP BANNER IMAGE ========= -->
-<img width="1024" height="1024" alt="051dfa83-7e7b-4840-a2e0-2f8918529cc6" src="https://github.com/user-attachments/assets/3301e5e6-5fd5-4151-a259-865f3bf903cf" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d65cbe4f-059f-4128-9d89-b2b6b94c521f" />
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!👋;I'm+Tailyn+Barrett;" />
