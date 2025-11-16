@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **[Software Engineering](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
+- 🌱 I’m currently pursuing growth in **Software Engineering**, **Artificial Intelligence**, and **Robotics**.
 - 💬 Ask me about **Python, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
 
 <br>
